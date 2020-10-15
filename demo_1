@@ -1,0 +1,16 @@
+<! DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" >
+    <meta name="'description" content="This is an awesome website"   >
+    <title>JieKun's Website</title>
+
+  </head>
+  <body style="background-color: lightblue">                       <!--Don't display this-->
+    <h2 style="color: green;">Style and Colors</h2>
+    <p style="color: red;background-color: blue"> You can style your HTML and make it loop pretty
+
+
+
+  </body>
+</html>
